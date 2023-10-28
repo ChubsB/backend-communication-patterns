@@ -1,0 +1,19 @@
+# Node.js related
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Operating System generated files
+.DS_Store  # macOS generated file
+Thumbs.db  # Windows generated file
+*.swp      # Swap file for Vim 
+
+# IDEs and editors
+*.idea/    # IntelliJ related
+.vscode/   # Visual Studio Code related
+*.sublime* # Sublime Text related
+
+# Other
+*.log      # Log files
